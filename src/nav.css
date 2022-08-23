@@ -16,20 +16,21 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;
-  }
+    
+}
   
-  li a {
+li a {
     color: black;
     text-align: center;
     font-size: 17px;
     text-decoration: none;
     padding: 15px 30px 15px 30px;
-  }
+}
   
-  li a:hover:not(.active) {
+li a:hover:not(.active) {
     background-color: #990000;
-  }
+}
   
-  .active {
+.active {
     background-color: #990000;
-  }
+}
