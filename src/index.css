@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    margin: 0;
+    word-wrap: break-word;
+  }
+  
+  h1#header {
+    color: red;
+    text-align: center;
+    font-family: verdana;
+    font-size: 40px;
+  }
+  
+  p#intro {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+  }
+  
+  /* images */
+  
+  img#robot_image_1 {
+    width: auto;
+    height: 400px
+  }
+  
+  img#robot_image_2 {
+    width: auto;
+    height: 400px
+  }
