@@ -6,20 +6,14 @@ body {
     word-wrap: break-word;
 }
 
-h1#header {
-    color: #c30101;
-    text-align: center;
-    font-family: 'Lora', serif;
-    font-size: 40px;
-}
-
-p#intro {
+p {
     color: black;
     text-align: center;
-    font-family: 'Lora', serif;
     font-size: 35px;
+    font-family: 'Lora', serif;
 }
 
-a {
-    color: #531516;
+#header {
+    color: #c30101;
+    font-size: 40px;
 }

@@ -3,3 +3,20 @@ ul#contactinfo {
     text-align: center;
     font-size: 30px;
 }
+
+#contactinfo > li {
+    border-radius: 25px;
+    text-align: center;
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+}
+
+a, a:visited, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color:black;
+}
+
+img {
+    height: 20px;
+}

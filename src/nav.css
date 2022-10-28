@@ -25,7 +25,7 @@ nav {
     margin-bottom: 5%;
 }
 
-nav li a {
+nav a {
     font-family: 'Aboreto', cursive;
     color: black;
     text-align: center;
@@ -34,10 +34,6 @@ nav li a {
     padding: 15px 30px 15px 30px;
 }
 
-li a:hover:not(.active) {
-    background-color: #990000;
-}
-
-.active {
-    background-color: #990000;
+a:hover:not(.active).navi, .active.navi {
+    background-color: green;
 }
