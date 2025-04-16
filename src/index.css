@@ -1,19 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-    background-color: #d6dbe1;
+    background-color: #dbdbbc;
     margin: 0;
     word-wrap: break-word;
 }
 
 p {
-    color: black;
-    text-align: center;
-    font-size: 35px;
-    font-family: 'Lora', serif;
+  font-family: "Lekton", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
 #header {
-    color: #c30101;
-    font-size: 40px;
+    color: #07374f;
+    font-size: 25px;
 }
