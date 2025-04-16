@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
 nav > ul {
 
-    background-color: #940000;
+    background-color: #ad2a2a;
     height: 48px;
 
     list-style-type: none;
@@ -26,14 +25,15 @@ nav {
 }
 
 nav a {
-    font-family: 'Aboreto', cursive;
+    font-family: 'Iceland', sans-serif;
     color: black;
     text-align: center;
     font-size: 17px;
     text-decoration: none;
     padding: 15px 30px 15px 30px;
+    color: #dbdbbc
 }
 
 a:hover:not(.active).navi, .active.navi {
-    background-color: green;
+    background-color: #731414;
 }
