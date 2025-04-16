@@ -10,9 +10,10 @@ p {
   font-family: "Lekton", monospace;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
 }
 
 #header {
     color: #07374f;
-    font-size: 25px;
+    font-size: 40px;
 }
