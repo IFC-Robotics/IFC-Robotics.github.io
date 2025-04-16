@@ -15,5 +15,14 @@ p {
 
 #header {
     color: #07374f;
-    font-size: 40px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#intro {
+    color: #07374f;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
 }
