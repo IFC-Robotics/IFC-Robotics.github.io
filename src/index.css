@@ -19,7 +19,7 @@ p {
     text-align: center;
     font-weight: 700;
     position: relative;
-    top: 20px;
+    top: 15px;
 }
 
 #intro {
@@ -27,4 +27,5 @@ p {
     font-size: 20px;
     text-align: center;
     font-weight: 400;
+    padding: 10px;
 }
